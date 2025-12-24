@@ -4,3 +4,8 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+sysinfo = "0.37.2"
+owo-colors = "4"
+wgpu = "0.19"
+pollster = "0.3"
+
